@@ -29,7 +29,7 @@ public class WorkflowTableTest {
         
         workflow.loadNextItem();
         
-        assertEquals("Loading first item now", workflow.getCurrentStep());  
+        assertEquals("Next item is being loaded", workflow.getCurrentStep());  
     
     }
 
