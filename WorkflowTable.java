@@ -30,7 +30,7 @@ public class WorkflowTable {
      */
     public void loadNextItem() {
         
-        this.currentStep = "Loading first item now";
+        this.currentStep = "Next item is being loaded";
     
     }
 
